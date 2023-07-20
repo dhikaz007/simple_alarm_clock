@@ -1,0 +1,23 @@
+name: simple_alarm_clock
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_alarm_clock: ^0.1.1
+  flutter_local_notifications: ^15.1.0+1
+  provider: ^6.0.5
+  syncfusion_flutter_charts: ^22.1.39
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
