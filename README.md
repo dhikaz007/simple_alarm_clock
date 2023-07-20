@@ -34,7 +34,7 @@ flutter run
 * Flutter: A cross-platform UI toolkit for building beautiful, natively compiled applications.
 
 ## Video Capture
-https://github.com/dhikaz007/simple_alarm_clock/assets/37215014/b33e5f6-3254-4aa2-86f5-3a19a7ec9a28
+https://github.com/dhikaz007/simple_alarm_clock/assets/37215014/1ce906bd-ff4f-4d53-b692-746c18ca9029
 
 ## License
 This project is licensed under the [MIT License](https://github.com/dhikaz007/simple_alarm_clock/blob/master/LICENSE).
